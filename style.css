@@ -36,3 +36,13 @@ body {
 
   display: flex;
 }
+
+/****************** Main Styling ******************/
+
+/*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Side Nav *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
+aside#side-nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  height: 100vh;
+}
