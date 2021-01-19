@@ -40,7 +40,7 @@ body {
 /****************** Main Styling ******************/
 
 /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Side Nav *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
-aside#side-nav {
+aside #side-nav {
   position: sticky;
   top: 0;
   left: 0;
@@ -55,4 +55,10 @@ div.side-nav__content {
   justify-content: space-between;
 
   background-color: var(--primary-color);
+}
+
+div.side-nav__content--logo img {
+  width: calc(3vw + 3vh);
+
+  object-fit: cover;
 }
