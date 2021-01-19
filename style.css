@@ -46,3 +46,7 @@ aside#side-nav {
   left: 0;
   height: 100vh;
 }
+
+div.side-nav__content {
+  height: 100%;
+}
