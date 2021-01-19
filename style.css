@@ -7,8 +7,7 @@
   box-sizing: border-box;
 }
 
-/*************** Root ***************/
-
+/**************** Utility Components ****************/
 :root {
   font-size: 62.5%;
 
@@ -37,10 +36,23 @@ body {
   display: flex;
 }
 
-/****************** Main Styling ******************/
+/* List Items */
+li {
+  list-style: none;
+}
+
+/* Abchor Tags */
+a:link,
+a:visited {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5rem;
+}
+
+/******************** Main Styling ********************/
 
 /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Side Nav *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
-aside #side-nav {
+aside#side-nav {
   position: sticky;
   top: 0;
   left: 0;
