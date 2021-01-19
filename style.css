@@ -93,3 +93,8 @@ ul.side-nav__content--social a i {
 
   transition: color 0.35s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+
+ul.side-nav__content--social a i:hover,
+ul.side-nav__content--social a i:active {
+  color: var(--secondary-color);
+}
