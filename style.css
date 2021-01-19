@@ -29,3 +29,10 @@
   /* tertiary color modified */
   --tertiary-color-m: #01727498;
 }
+
+body {
+  font-family: "Baloo Tamma 2", cursive;
+  line-height: 1.8;
+
+  display: flex;
+}
