@@ -83,3 +83,13 @@ ul.side-nav__content--social {
   align-items: center;
   justify-content: flex-end;
 }
+
+ul.side-nav__content--social a i {
+  /* 20px => 2rem => {1rem + [(10/1500) * 100]} => Dynamic Value */
+  font-size: calc(1rem + 0.66667vw);
+  color: white;
+
+  padding-bottom: calc(2rem + 0.6667vw);
+
+  transition: color 0.35s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
