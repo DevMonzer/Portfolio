@@ -114,3 +114,8 @@ header#header {
 nav#header__main-nav {
   height: 100%;
 }
+
+ul.header__main-nav--links {
+  width: 100%;
+  height: 100%;
+}
