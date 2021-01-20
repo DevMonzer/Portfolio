@@ -158,3 +158,9 @@ ul.header__main-nav--links li a:visited::before {
   /* Transform origin is center by default */
   transform-origin: left;
 }
+
+ul.header__main-nav--links li a:link::after,
+ul.header__main-nav--links li a:visited::after {
+  bottom: 0;
+  transform-origin: right;
+}
