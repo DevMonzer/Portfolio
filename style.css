@@ -98,3 +98,10 @@ ul.side-nav__content--social a i:hover,
 ul.side-nav__content--social a i:active {
   color: var(--secondary-color);
 }
+
+/*-*-**-*-*-*-* Main Nav Header *-*-**-*-*-*-*/
+header#header {
+  background-color: var(--secondary-color);
+  height: calc(3vw + 3vh);
+  z-index: 2;
+}
