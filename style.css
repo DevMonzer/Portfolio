@@ -135,3 +135,11 @@ ul.header__main-nav--links li a {
   padding: 0.2rem 0.6rem;
   font-size: calc(1rem + 0.66667vw);
 }
+
+ul.header__main-nav--links li a:link::before,
+ul.header__main-nav--links li a:visited::before,
+ul.header__main-nav--links li a:link::after,
+ul.header__main-nav--links li a:visited::after {
+  content: "";
+  position: absolute;
+}
