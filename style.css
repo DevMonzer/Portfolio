@@ -129,3 +129,9 @@ ul.header__main-nav--links {
 ul.header__main-nav--links li {
   padding-right: 3vw;
 }
+
+ul.header__main-nav--links li a {
+  position: relative;
+  padding: 0.2rem 0.6rem;
+  font-size: calc(1rem + 0.66667vw);
+}
