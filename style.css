@@ -99,6 +99,11 @@ ul.side-nav__content--social a i:active {
   color: var(--secondary-color);
 }
 
+/* All content container => main element */
+main {
+  flex: 1;
+}
+
 /*-*-**-*-*-*-* Main Nav Header *-*-**-*-*-*-*/
 header#header {
   background-color: var(--secondary-color);
