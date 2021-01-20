@@ -125,3 +125,7 @@ ul.header__main-nav--links {
   justify-content: flex-end;
   align-items: center;
 }
+
+ul.header__main-nav--links li {
+  padding-right: 3vw;
+}
