@@ -151,3 +151,10 @@ ul.header__main-nav--links li a:visited::after {
 
   transition: transform 0.6s cubic-bezier(1, 0, 0, 1);
 }
+
+ul.header__main-nav--links li a:link::before,
+ul.header__main-nav--links li a:visited::before {
+  top: 0;
+  /* Transform origin is center by default */
+  transform-origin: left;
+}
