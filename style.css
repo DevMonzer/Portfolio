@@ -164,3 +164,10 @@ ul.header__main-nav--links li a:visited::after {
   bottom: 0;
   transform-origin: right;
 }
+
+ul.header__main-nav--links li a:hover::before,
+ul.header__main-nav--links li a:active::before,
+ul.header__main-nav--links li a:hover::after,
+ul.header__main-nav--links li a:active::after {
+  transform: scaleX(1);
+}
