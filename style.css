@@ -105,3 +105,7 @@ header#header {
   height: calc(3vw + 3vh);
   z-index: 2;
 }
+
+nav#header__main-nav {
+  height: 100%;
+}
