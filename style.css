@@ -392,6 +392,7 @@ div.showcase__content {
   /*-*-*-*-*-* Showcase / Hero Section *-*-*-*-*-*/
   section#showcase {
     background-position: 100%;
+    margin-top: -6vh;
     align-items: flex-end;
   }
 }
