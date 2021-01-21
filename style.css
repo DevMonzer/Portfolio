@@ -270,4 +270,9 @@ ul.header__main-nav--links li a:active::after {
   ul.header__main-nav--links li.fade {
     opacity: 1;
   }
+
+  /*-*-*-*-**-* Showcase / Hero Section *-*-*-*-**-*/
+  section#showcase {
+    background-position: 80%;
+  }
 }
