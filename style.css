@@ -88,7 +88,7 @@ ul.side-nav__content--social a i {
   font-size: 1.8rem;
   color: white;
 
-  padding-bottom: calc(2rem + 0.6667vw);
+  padding-bottom: 2rem;
 
   transition: color 0.35s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
