@@ -173,7 +173,7 @@ ul.header__main-nav--links li a:active::after {
 
 /*-*-*-*-** (max-width:610px) Mark **-*-***-*-*-*/
 @media screen and (max-width: 610px) {
-  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Main Nav Header *-*-*-*-**-*-*-*-**-*-*-*-**-*/
+  /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
   header#header {
     position: absolute;
   }
