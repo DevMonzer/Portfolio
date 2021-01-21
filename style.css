@@ -171,6 +171,16 @@ ul.header__main-nav--links li a:active::after {
   transform: scaleX(1);
 }
 
+/*-*-*-*-** Showcase / Hero Section **-*-***-*-*-*/
+
+section#showcase {
+  height: 100vh;
+  background-image: url("img/full-bg-07.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-***-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
