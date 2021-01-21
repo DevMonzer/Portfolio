@@ -85,8 +85,7 @@ ul.side-nav__content--social {
 }
 
 ul.side-nav__content--social a i {
-  /* 20px => 2rem => {1rem + [(10/1500) * 100]} => Dynamic Value */
-  font-size: calc(1rem + 0.66667vw);
+  font-size: 1.8rem;
   color: white;
 
   padding-bottom: calc(2rem + 0.6667vw);
