@@ -189,7 +189,12 @@ div.showcase__content {
   background-color: var(--secondary-color-m);
   padding: calc(1rem + 2vw);
   height: calc(5rem + 20vmax);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
+
 /*-*-*-*-** (max-width:610px) Mark **-*-***-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
