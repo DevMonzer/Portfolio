@@ -255,7 +255,7 @@ div.showcase__content {
   transform-origin: left;
 }
 
-/*-*-*-*-** (max-width:610px) Mark **-*-***-*-*-*/
+/*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
   header#header {
@@ -384,6 +384,15 @@ div.showcase__content {
   .skills__coding h4,
   .testimonials__card--content__para {
     font-size: calc(0.8rem + 1.5vw);
+  }
+}
+
+/*-*-*-*-*-* (max-width:900px) Mark *-*-*-*-*-*-*-*/
+@media screen and (max-width: 900px) {
+  /*-*-*-*-*-* Showcase / Hero Section *-*-*-*-*-*/
+  section#showcase {
+    background-position: 100%;
+    align-items: flex-end;
   }
 }
 
