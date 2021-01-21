@@ -246,4 +246,8 @@ ul.header__main-nav--links li a:active::after {
   ul.header__main-nav--links li:nth-child(1) {
     transition: all 0.5s ease-in-out 0.2s;
   }
+
+  ul.header__main-nav--links li:nth-child(2) {
+    transition: all 0.5s ease-in-out 0.4s;
+  }
 }
