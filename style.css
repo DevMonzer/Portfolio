@@ -215,4 +215,10 @@ ul.header__main-nav--links li a:active::after {
     border-radius: 0.2rem;
     transition: all 0.4s ease-in-out;
   }
+
+  ul.header__main-nav--links {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
 }
