@@ -221,4 +221,9 @@ ul.header__main-nav--links li a:active::after {
     justify-content: center;
     align-items: flex-start;
   }
+
+  ul.header__main-nav--links li {
+    margin-bottom: 4vh;
+    margin-left: 6vw;
+  }
 }
