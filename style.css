@@ -275,4 +275,12 @@ ul.header__main-nav--links li a:active::after {
   section#showcase {
     background-position: 80%;
   }
+
+  /*-*-*-*-**-* Services Section *-*-*-*-**-*/
+  /*-*-*-*-**-* Skills Section *-*-*-*-**-*/
+  /*-*-*-*-**-*Testimonials Section *-*-*-*-**-*/
+
+  section#services {
+    padding: 6rem 3rem 2rem;
+  }
 }
