@@ -193,6 +193,20 @@ div.showcase__content {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
+  animation: hero 2s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+@keyframes hero {
+  0% {
+    transform: translateX(100rem) rotate(360deg);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
 }
 
 .showcase__content--title {
@@ -204,6 +218,19 @@ div.showcase__content {
   font-family: "Indie Flower", cursive;
   font-size: calc(1.5rem + 1vw);
   color: white;
+}
+
+.showcase__content--link:link,
+.showcase__content--link:visited {
+  padding: 1rem 0;
+  transition: all 0.5s ease-in-out;
+  width: 9rem;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.2rem;
+  position: relative;
+  z-index: 1;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-***-*-*-*/
