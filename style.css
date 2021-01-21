@@ -187,4 +187,8 @@ ul.header__main-nav--links li a:active::after {
     background-color: var(--secondary-color);
     text-align: center;
   }
+
+  .clicked {
+    left: 55%;
+  }
 }
