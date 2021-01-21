@@ -386,3 +386,7 @@ div.showcase__content {
     font-size: calc(0.8rem + 1.5vw);
   }
 }
+
+section#contact {
+  background-position: 15% 5%;
+}
