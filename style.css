@@ -241,6 +241,12 @@ div.showcase__content {
   left: 0;
   height: 100%;
   width: 100%;
+  background-color: var(--primary-color);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.45s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+  z-index: -1;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-***-*-*-*/
