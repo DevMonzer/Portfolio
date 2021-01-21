@@ -283,4 +283,9 @@ ul.header__main-nav--links li a:active::after {
   section#services {
     padding: 6rem 3rem 2rem;
   }
+
+  .service {
+    padding: calc(1rem + 2vw);
+    margin: 0 0 calc(1rem + 2vw);
+  }
 }
