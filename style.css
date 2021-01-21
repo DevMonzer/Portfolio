@@ -230,4 +230,8 @@ ul.header__main-nav--links li a:active::after {
   .clicked .line-1 {
     transform: rotateZ(-405deg) translate(-0.8rem, 0.6rem);
   }
+
+  .clicked .line-2 {
+    opacity: 0;
+  }
 }
