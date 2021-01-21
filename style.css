@@ -195,6 +195,11 @@ div.showcase__content {
   justify-content: space-between;
 }
 
+.showcase__content--title {
+  font-size: calc(2rem + 3vw);
+  color: white;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-***-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
