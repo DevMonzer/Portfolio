@@ -170,3 +170,11 @@ ul.header__main-nav--links li a:hover::after,
 ul.header__main-nav--links li a:active::after {
   transform: scaleX(1);
 }
+
+/*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* (max-width:610px) Mark *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
+@media screen and (max-width: 610px) {
+  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Main Nav Header *-*-*-*-**-*-*-*-**-*-*-*-**-*/
+  header#header {
+    position: absolute;
+  }
+}
