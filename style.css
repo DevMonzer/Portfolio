@@ -171,7 +171,7 @@ ul.header__main-nav--links li a:active::after {
   transform: scaleX(1);
 }
 
-/*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* (max-width:610px) Mark *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
+/*-*-*-*-** (max-width:610px) Mark **-*-***-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Main Nav Header *-*-*-*-**-*-*-*-**-*-*-*-**-*/
   header#header {
@@ -271,15 +271,14 @@ ul.header__main-nav--links li a:active::after {
     opacity: 1;
   }
 
-  /*-*-*-*-**-* Showcase / Hero Section *-*-*-*-**-*/
+  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Showcase / Hero Section *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
   section#showcase {
     background-position: 80%;
   }
 
-  /*-*-*-*-**-* Services Section *-*-*-*-**-*/
-  /*-*-*-*-**-* Skills Section *-*-*-*-**-*/
-  /*-*-*-*-**-*Testimonials Section *-*-*-*-**-*/
-
+  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Services Section *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
+  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Skills Section *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
+  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Testimonials Section *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
   section#services {
     padding: 6rem 3rem 2rem;
   }
@@ -294,5 +293,12 @@ ul.header__main-nav--links li a:active::after {
   .skills__coding--title,
   .testimonials__card--content__title {
     font-size: calc(1.2rem + 2vw);
+  }
+
+  .services--para,
+  .skills__design h4,
+  .skills__coding h4,
+  .testimonials__card--content__para {
+    font-size: calc(0.8rem + 1.5vw);
   }
 }
