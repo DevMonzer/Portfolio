@@ -259,6 +259,9 @@ section#work {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+
+  padding: 2rem;
+  background-color: var(--tertiary-color);
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
