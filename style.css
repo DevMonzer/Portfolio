@@ -290,6 +290,11 @@ div.work__card img {
   transition: filter 0.45s ease;
 }
 
+div.work__card img:hover,
+div.work__card img:active {
+  filter: sepia(80%);
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
