@@ -264,6 +264,11 @@ section#work {
   background-color: var(--tertiary-color);
 }
 
+div.work__card img {
+  height: 100%;
+  width: 100%;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
