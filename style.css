@@ -360,9 +360,9 @@ div.showcase__content {
     background-position: 80%;
   }
 
-  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Services Section *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
-  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Skills Section *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
-  /*-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-* Testimonials Section *-*-*-*-**-*-*-*-**-*-*-*-**-*-*-*-*/
+  /*-*-*-*-*-*-*-*-* Services Section -**-*-*-*-**-*-*-*-*/
+  /*-*-**-*-*-*-*-** Skills Section *-*-*-**-*-*-*-*/
+  /*-*-*-*-**-*-*-* Testimonials Section -*-*-*-**-*-*-*-*/
   section#services {
     padding: 6rem 3rem 2rem;
   }
