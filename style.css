@@ -284,6 +284,10 @@ div.work__card {
 div.work__card img {
   height: 100%;
   width: 100%;
+
+  object-fit: cover;
+
+  transition: filter 0.45s ease;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
