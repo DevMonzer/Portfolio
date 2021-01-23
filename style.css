@@ -264,6 +264,12 @@ section#work {
   background-color: var(--tertiary-color);
 }
 
+div.work__card {
+  padding: 2rem;
+  flex-basis: 40rem;
+  flex-grow: 1;
+}
+
 div.work__card img {
   height: 100%;
   width: 100%;
