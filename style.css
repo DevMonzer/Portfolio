@@ -257,6 +257,8 @@ div.showcase__content {
 
 section#work {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
