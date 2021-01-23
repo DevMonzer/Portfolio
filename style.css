@@ -255,6 +255,10 @@ div.showcase__content {
   transform-origin: left;
 }
 
+section#work {
+  display: flex;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
