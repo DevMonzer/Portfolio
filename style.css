@@ -326,7 +326,6 @@ section#about-me {
   text-transform: uppercase;
   position: relative;
 }
-}
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
