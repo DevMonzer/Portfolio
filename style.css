@@ -319,6 +319,12 @@ section#about-me {
   object-fit: cover;
 }
 
+.about-me__content--title {
+  font-size: 4rem;
+  padding: 1rem 0;
+  color: white;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
