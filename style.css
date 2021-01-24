@@ -376,6 +376,12 @@ section#about-me {
   z-index: -1;
 }
 
+.about-me__content--link:hover::after,
+.about-me__content--link:active::after {
+  transform: scaleY(1);
+  transform-origin: top;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
