@@ -348,6 +348,12 @@ section#about-me {
   font-family: "Indie Flower", cursive;
 }
 
+.about-me__content--link:link,
+.about-me__content--link:visited {
+  padding: 1rem 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
