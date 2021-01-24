@@ -370,6 +370,10 @@ section#about-me {
   height: 100%;
   background-color: var(--primary-color);
   transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.45s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+  z-index: -1;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
