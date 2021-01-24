@@ -331,6 +331,9 @@ section#about-me {
   content: "";
   position: absolute;
   bottom: 0;
+  left: 0;
+  height: 0.3rem;
+  width: 10%;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
