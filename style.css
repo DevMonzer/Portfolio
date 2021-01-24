@@ -343,6 +343,11 @@ section#about-me {
   letter-spacing: 0.2rem;
 }
 
+.about-me__content--para {
+  font-size: 1.8rem;
+  font-family: "Indie Flower", cursive;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
