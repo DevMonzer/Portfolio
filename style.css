@@ -337,6 +337,12 @@ section#about-me {
   background-color: var(--primary-color);
 }
 
+.about-me__content--title,
+.about-me__content--para {
+  margin-bottom: 4rem;
+  letter-spacing: 0.2rem;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
