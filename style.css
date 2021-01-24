@@ -295,6 +295,12 @@ div.work__card img:active {
   filter: sepia(80%);
 }
 
+/*-*-*-*-**-*-*-*-* About Me Section *-*-*-*-**-*-*-*-*/
+section#about-me {
+  display: flex;
+  justify-content: space-around;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
