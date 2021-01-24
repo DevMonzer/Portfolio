@@ -299,6 +299,8 @@ div.work__card img:active {
 section#about-me {
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
