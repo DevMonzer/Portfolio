@@ -334,6 +334,7 @@ section#about-me {
   left: 0;
   height: 0.3rem;
   width: 10%;
+  background-color: var(--primary-color);
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
