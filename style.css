@@ -355,6 +355,9 @@ section#about-me {
   font-weight: 600;
   letter-spacing: 0.2rem;
   text-transform: uppercase;
+
+  position: relative;
+  z-index: 1;
 }
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
