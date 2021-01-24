@@ -323,6 +323,9 @@ section#about-me {
   font-size: 4rem;
   padding: 1rem 0;
   color: white;
+  text-transform: uppercase;
+  position: relative;
+}
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
