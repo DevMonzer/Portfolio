@@ -327,6 +327,12 @@ section#about-me {
   position: relative;
 }
 
+.about-me__content--title:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
