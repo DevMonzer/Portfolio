@@ -306,6 +306,13 @@ section#about-me {
   background-color: var(--secondary-color);
 }
 
+.about-me__img,
+.about-me__content {
+  flex-basis: 40rem;
+  padding: 2rem;
+  flex-grow: 1;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
