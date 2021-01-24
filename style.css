@@ -301,6 +301,9 @@ section#about-me {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
+
+  padding: 2rem;
+  background-color: var(--secondary-color);
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
