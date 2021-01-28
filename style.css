@@ -454,6 +454,10 @@ section#services {
   margin: 0 0 calc(1rem + 2vw);
 }
 
+.services--title {
+  font-size: calc(1.2rem + 2vw);
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
