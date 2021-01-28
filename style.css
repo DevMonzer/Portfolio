@@ -383,6 +383,9 @@ section#about-me {
 }
 
 section#services {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
