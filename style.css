@@ -406,6 +406,11 @@ section#services {
   z-index: 1;
 }
 
+.service::after {
+  content: "";
+  position: absolute;
+}
+
 .service:hover::after,
 .service:active::after {
   transform: scaleX(1);
