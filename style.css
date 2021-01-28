@@ -386,6 +386,10 @@ section#services {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+
+  padding: 6rem 2rem 2rem;
+  background-color: var(--primary-color);
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
