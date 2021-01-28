@@ -401,6 +401,9 @@ section#services {
   border-bottom: 0.2rem solid var(--secondary-color);
   border-right: 0.2rem solid var(--secondary-color);
   border-left: 0.2rem solid var(--secondary-color);
+
+  position: relative;
+  z-index: 1;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
