@@ -458,6 +458,10 @@ section#services {
   font-size: calc(1.2rem + 2vw);
 }
 
+.services--para {
+  font-size: calc(0.8rem + 1.5vw);
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
