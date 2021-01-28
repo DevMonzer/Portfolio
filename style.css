@@ -579,17 +579,11 @@ section#services {
     margin: 0 0 calc(1rem + 2vw);
   }
 
-  .services--title,
-  .skills__design--title,
-  .skills__coding--title,
-  .testimonials__card--content__title {
+  .services--title {
     font-size: calc(1.2rem + 2vw);
   }
 
-  .services--para,
-  .skills__design h4,
-  .skills__coding h4,
-  .testimonials__card--content__para {
+  .services--para {
     font-size: calc(0.8rem + 1.5vw);
   }
 }
