@@ -435,6 +435,10 @@ section#services {
   color: white;
 }
 
+.services--title {
+  text-transform: uppercase;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
