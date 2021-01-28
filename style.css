@@ -449,6 +449,11 @@ section#services {
   padding: 6rem 3rem 2rem;
 }
 
+.service {
+  padding: calc(1rem + 2vw);
+  margin: 0 0 calc(1rem + 2vw);
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
