@@ -395,6 +395,8 @@ section#services {
 .service {
   padding: 4rem;
   margin: 0 2rem 4rem;
+  flex-basis: 40rem;
+  flex-grow: 1;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
