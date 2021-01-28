@@ -439,6 +439,12 @@ section#services {
   text-transform: uppercase;
 }
 
+.services--para {
+  font-family: "Indie Flower", cursive;
+  font-size: 2rem;
+  color: white;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
