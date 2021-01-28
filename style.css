@@ -445,6 +445,10 @@ section#services {
   color: white;
 }
 
+section#services {
+  padding: 6rem 3rem 2rem;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
