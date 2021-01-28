@@ -425,6 +425,12 @@ section#services {
   transform: scaleX(1);
 }
 
+.service i,
+.services--title {
+  margin-bottom: 2rem;
+  font-size: 3rem;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
