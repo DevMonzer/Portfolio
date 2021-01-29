@@ -493,6 +493,9 @@ section#skills {
   position: relative;
   display: inline-block;
   vertical-align: middle;
+  height: 2rem;
+  border-radius: 1rem 0 0 1rem;
+  background-color: var(--secondary-color);
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
