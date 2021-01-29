@@ -452,6 +452,9 @@ section#skills {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+
+  padding: calc(1rem + 2vw);
+  background-color: var(--tertiary-color);
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
