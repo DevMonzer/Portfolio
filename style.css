@@ -450,6 +450,8 @@ section#services {
 section#skills {
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
