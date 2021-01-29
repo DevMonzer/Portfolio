@@ -481,6 +481,8 @@ section#skills {
 .skills__coding--progress {
   position: relative;
   display: block;
+  padding: 0.5rem;
+  border-radius: 3rem;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
