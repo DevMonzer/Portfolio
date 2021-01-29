@@ -471,6 +471,12 @@ section#skills {
   margin-bottom: 2rem;
 }
 
+.skills__design h4,
+.skills__coding h4 {
+  font-size: 2rem;
+  color: white;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
