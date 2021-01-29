@@ -464,6 +464,13 @@ section#skills {
   flex-grow: 1;
 }
 
+.skills__design--title,
+.skills__coding--title {
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
