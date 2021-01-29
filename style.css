@@ -483,6 +483,9 @@ section#skills {
   display: block;
   padding: 0.5rem;
   border-radius: 3rem;
+  background-color: var(--primary-color);
+  width: 100%;
+  margin-bottom: 2rem;
 }
 
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
