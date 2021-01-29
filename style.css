@@ -445,6 +445,13 @@ section#services {
   color: white;
 }
 
+/*-*-*-*-**-*-*-*-* Skills Section *-*-*-*-**-*-*-*-*/
+
+section#skills {
+  display: flex;
+  justify-content: center;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
