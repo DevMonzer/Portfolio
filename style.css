@@ -477,6 +477,12 @@ section#skills {
   color: white;
 }
 
+.skills__design--progress,
+.skills__coding--progress {
+  position: relative;
+  display: block;
+}
+
 /*-*-*-*-** (max-width:610px) Mark **-*-*-*-*-*/
 @media screen and (max-width: 610px) {
   /*-*-**-*-*-* Main Nav Header **-*-*-*-**-*/
