@@ -1,5 +1,5 @@
 # Portfolio
-a portfolio webpage that incudes my info
+a portfolio webpage 
 
 ## Technologies ⚙️
 
